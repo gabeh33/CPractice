@@ -1,0 +1,33 @@
+Results using mutex:
+
+Philosopher 0 just ate.
+Philosopher 3 just ate.
+Philosopher 1 just ate.
+Philosopher 4 just ate.
+Philosopher 2 just ate.
+Philosopher 5 just ate.
+Philosopher 6 just ate.
+Philosopher 7 just ate.
+Philosopher 8 just ate.
+Philosopher 9 just ate.
+Philosopher 10 just ate.
+Philosopher 11 just ate.
+Philosopher 12 just ate.
+Philosopher 13 just ate.
+Philosopher 14 just ate.
+Results using semaphores: 
+Philosopher 0 just ate.
+Philosopher 3 just ate.
+Philosopher 7 just ate.
+Philosopher 5 just ate.
+Philosopher 9 just ate.
+Philosopher 11 just ate.
+Philosopher 13 just ate.
+Philosopher 4 just ate.
+Philosopher 6 just ate.
+Philosopher 8 just ate.
+Philosopher 10 just ate.
+Philosopher 12 just ate.
+Philosopher 14 just ate.
+Philosopher 2 just ate.
+Philosopher 1 just ate.
